@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤මම ආව බොසාල😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+94701358330'] //ur owner number
+global.ownername = "🍁අතිගරු සයිබර් සෝල් තමාහ්🍁❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -40,18 +40,18 @@ global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive pictur
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
-global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
+global.callblock === "true" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.owner = ['+94701358330']
+global.ownertag = '+94701358330' //ur tag number
+global.botname = 'අතිගරු සයිබර් සෝල් තමාහ්' //ur bot name
+global.packname = "ꪶ𝐂𝐘𝐁𝜩𝐑 𝐒𝐎𝐔𝐋ቾꫂ" // sticker packname
+global.author = "අතිගරු සයිබර් සෝල්" // sticker author
+global.dragonemoji = '🍁' // Menu emoji
+global.footer = '[ ◉අතිගරු සයිබර් සෝල් තමාහ්🍁 ]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ TIKTOK ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://vt.tiktok.com/ZSRYVtRfB/?k=1' //Change Your Button's URL
 
 //damtabase
 global.premium = ['+380944814219'] //ur premium numbers
@@ -87,7 +87,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉❤️👈ටික්ක් ඉදප්ම්..',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
